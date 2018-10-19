@@ -10841,7 +10841,7 @@ ac si, ut si, quasi, quam si, tamquam si, velut si, or simply by velut or
 tamquam. They stand in the Subjunctive mood and regularly involve an
 ellipsis (see Sec. 374, 1), as indicated in the following examples:--
 
-    tantus patres metus cepit, velat si jam ad portas hostis esset, _as
+    tantus patres metus cepit, velut si jam ad portas hostis esset, _as
     great fear seized the senators as (would have seized them) if the enemy
     were already at the gates_;
 
